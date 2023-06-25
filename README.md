@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=	31s55veeub77md2un3iwag2knnsq&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31s55veeub77md2un3iwag2knnsq&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 
 
 
