@@ -1,4 +1,1 @@
-
-<div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=starmanMs" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=starmanMS)](https://git.io/streak-stats)
