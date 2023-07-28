@@ -133,5 +133,3 @@ trait OpenSource {
 
 impl OpenSource for AboutMe {}
 ```
-
-
